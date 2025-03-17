@@ -1,7 +1,7 @@
 "use client"
 
 import { useState, useEffect, useRef, useCallback } from "react"
-import ImageCard from "./components/ImageCard"
+import ImageCard from "./components/Imagecard"
 import "./index.css"
 
 function App() {
